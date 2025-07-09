@@ -1,2 +1,2 @@
 # Internship
-we will learn owasp juice shop and more 
+we will learn Owasp juice shop and more 
